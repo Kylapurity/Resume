@@ -1,4 +1,4 @@
-# Moise I. Iradukunda Portfolio
+# Purity Kihiu  Resume
 
 Welcome to my personal portfolio website repository! This repository contains the source code for my portfolio website, showcasing my skills, projects, and achievements in the field of full-stack development, network engineering, and cloud integration.
 
@@ -51,7 +51,3 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-You can reach me via email at iradukundam47@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/moise-iradukunda-ingabire/).
